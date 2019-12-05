@@ -9,7 +9,7 @@
 5. [Result](#Result)
 6. [Licensing, Authors, and Acknowledgements](#licensing)
 
-This project uses PySpark to predict churn based on a 12GB dataset of a fictitious music service platform, "Sparkify". Check out my <a name = "https://medium.com/@haidertanzeel003/the-project-provided-by-udacity-is-about-analyzing-user-behavior-of-a-music-app-sparkify-45db5d51ea57">blog</a> post for more details!
+This project uses PySpark to predict churn based on a 12GB dataset of a fictitious music service platform, "Sparkify". Check out my blog(https://medium.com/@haidertanzeel003/the-project-provided-by-udacity-is-about-analyzing-user-behavior-of-a-music-app-sparkify-45db5d51ea57) post for more details!
 
 ## Installation <a name="installation"></a>
 
